@@ -105,6 +105,11 @@ The script will iterate through the configurations and attempt each login, print
 - Add test cases to `config.json` rather than modifying `test_login.py` where possible.
 - Open an issue or PR for enhancements (additional browsers, parallel runs, reporting integrations).
 
+## References
+
+- Selenium Documentation: https://www.selenium.dev/documentation/webdriver/
+- The Internet Test Site: https://the-internet.herokuapp.com/login
+
 ## License
 
 This project is licensed under the MIT License
