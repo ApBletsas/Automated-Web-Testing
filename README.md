@@ -39,7 +39,7 @@ Notes:
 1. Clone the repo:
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone <(https://github.com/ApBletsas/Automated-Web-Testing.git)>
 cd automated-web-testing
 ```
 
