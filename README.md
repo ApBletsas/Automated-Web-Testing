@@ -1,6 +1,6 @@
 # Automated Web Testing — Multi-Config Login
 
-A macOS-compatible automated web testing project that verifies login flows across multiple sites using Selenium and Python. This repository demonstrates scalable, configurable test automation suitable for technical-operations or QA automation portfolios.
+A macOS compatible automated web testing project that verifies login flows across multiple sites using Selenium and Python. This repository demonstrates scalable and configurable test automation suitable for technical operations or QA automation portfolios.
 
 ---
 
